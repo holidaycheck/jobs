@@ -1,4 +1,4 @@
-[HolidayCheck](http://www.holidaycheck.de/) is deeply committed to providing the best experience in online travel for our customers. Search is an essential part of this experience, and we're currently looking for you to support our fantastic core services engineering team to improve our search functionality and REST APIs.
+[HolidayCheck](http://www.holidaycheck.de/) is deeply committed to providing the best experience in online travel for our customers. Search is an essential part of this experience, and we're currently looking for you to support our fantastic team to improve our search functionality and REST APIs.
 
 # (Senior) Software Engineer – Search
 

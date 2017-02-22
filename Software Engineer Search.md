@@ -23,7 +23,7 @@
 - True agilist and pair programming aficionado, keen on delivering working software
 - Willing to work with front- and backend code (Don't be afraid, we have Designers)
 - Non-religious about specific frameworks, languages or tools
-- Very good skills in English are mandatory, German or Polish is a plus
+- Very good skills in English are mandatory, basic knowledge of German is a must
 - Proud to show your github.com (or similar) account
 
 ## Apply

@@ -1,7 +1,14 @@
+[HolidayCheck](http://www.holidaycheck.de/) is deeply committed to providing the best experience in online travel for our customers.
+Help our growing team of data scientists and engineers to unleash the potential of billions of events every day to provide 25 million travellers every month with intelligent optimizations as a ...
+
+# Software Engineer – Big Data
+
+## Your Tasks
+
 - Help internal clients with pragmatic strategic & ad-hoc data requirements
 - Work closely with data scientists and engineers to build personalized experiences for our users
 - Drive research initiatives to innovate and support our data driven approach
-- Perform data extraction, aggregation from multiple sources, includng Google Analytics / GoogleBigQuery
+- Perform data extraction, aggregation from multiple sources, including Google Analytics / GoogleBigQuery
 - Create confidence in our data by tests, automation, monitoring and neat visualizations
 
 ## Your Profile
@@ -9,6 +16,7 @@
 - You are able to transform solutions into code (Scala is a plus)
 - SQL Basic skills
 - Devops mindset is a plus
+- Clear understanding of Map/Reduce paradigm. Experience with Spark/Hadoop is a plus.
 - Prior experience with scaling ETL projects and a big data platform is advantageous
 
 ## Personal Traits
@@ -18,8 +26,6 @@
 - Non-religious about specific systems, frameworks, languages or tools
 - Can focus on deliverables and small increments but also not afraid of huge changes and humongous amounts of data
 - Proud to show your github.com account, research papers or other interesting achievements
-- Functional programming skills is a plus
-- Experience with Spark is a plus
 - Very good skills in English are mandatory, German or Polish is a plus
 
 ## Apply

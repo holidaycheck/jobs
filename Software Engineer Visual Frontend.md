@@ -14,7 +14,7 @@
 - Proficient with CSS using preprocessors and tools like LESS, SASS or Stylus, Compass
 - Solid development experience using JavaScript, read "The Good Parts", lover or hater of ES6
 - Experience with multiple of: Bower, Grunt, Gulp, Webpack, React.js, Flux, Node.js, Karma, Mocha, Selenium, PhantomJS, Browserstack, Saucelabs, Mocha, Chai, jsdom, Supertest, Sinon, Istanbul, ...
-- Efficient user of tools like Axure, Balsamiq, Photoshop, Muse, Fireworks
+- Efficient use of visual tools like Sketch, Zeplin, Axure and Balsamiq
 - Very good conversational skills in English are mandatory, German or Polish is a plus
 - A big plus: Experienced with test driven web development and continuous delivery & some experience with React.js + Flux
 

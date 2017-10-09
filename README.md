@@ -11,6 +11,7 @@ Find our current open positions here, and [apply now](mailto:careers@holidaychec
 -----
 <div>
   <a href="https://twitter.com/holidaychecklab">
-  <img src="https://pbs.twimg.com/profile_images/639743980868009985/wQp2YC7Z.png" height="80"/>
-  <br>Follow @holidaychecklab</a>
+    <img src="https://pbs.twimg.com/profile_images/639743980868009985/wQp2YC7Z.png" height="80" />
+  </a><br />
+  <a href="https://twitter.com/holidaychecklab">Follow @holidaychecklab</a>
 </div>

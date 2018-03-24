@@ -30,7 +30,6 @@
 - Proud to show your github.com account, research papers or other interesting achievements
 - Very good conversational skills in English are mandatory, German or Polish is a plus
 - Genuinely nice also to Java and JavaScript programmers
-- Excellent typing ability in the presence of flying Nerf darts
 
 ## Apply
 

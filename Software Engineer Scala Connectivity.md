@@ -33,7 +33,6 @@
 - Proud to show your github.com account, research papers or other interesting achievements
 - Good conversational skills in German and English
 - Genuinely nice also to Java and JavaScript programmers
-- Excellent typing ability in the presence of flying Nerf darts
 
 ## Apply
 

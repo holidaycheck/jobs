@@ -18,7 +18,7 @@
 - A plus: Have published your own Apps to the App Store
 
 ## Personal Traits
-- Eagernes to learn new things every day
+- Eagerness to learn new things every day
 - Thoroughly test-driven, uses modern tools and is generally efficient
 - Writing tests for your code is in your personal definition of done
 - True agilist and pair programming aficionado

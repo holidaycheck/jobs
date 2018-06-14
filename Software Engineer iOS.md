@@ -29,7 +29,7 @@
 
 ## Apply
 
-If you happen to be a pragmatic, test-driven software craftsman or craftswoman who likes working on the edge of technology, come and help our outstanding, truly agile development team at Lake Constance in [Bottighofen, CH](https://goo.gl/maps/X7bZ3).
+If you happen to be a pragmatic, test-driven software crafter who likes working on the edge of technology, come and help our outstanding, truly agile development team at Lake Constance in [Bottighofen, CH](https://goo.gl/maps/X7bZ3).
 
 Please send your *concise* resume to [careers@holidaycheck.com](mailto:careers@holidaycheck.com).
 
